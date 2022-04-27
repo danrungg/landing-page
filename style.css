@@ -77,3 +77,26 @@ body {
     padding: 5px;
     border: none;
 }
+
+.info-title {
+    text-align: center;
+    margin: 50px;
+}
+
+.infomations {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+
+.info img {
+    width: 250px;
+    height: auto;
+    border: #3882f6 3px solid;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.info {
+    width: 250px;
+    text-align: center;
+}
